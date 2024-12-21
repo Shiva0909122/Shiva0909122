@@ -146,14 +146,6 @@ Show off your expertise with these additional **ReactJS** stats:
 
 ---
 
-### Additional Stats for GitHub Profile:
-- **GitHub Stats:**  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva0909122&show_icons=true&theme=radical)  
-- **Most Used Languages:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva0909122&layout=compact&theme=radical)
-
----
-
 ## 🌟 Fun Facts  
 
 - 🎮 **Gaming Guru**: Love exploring strategy and adventure games.  
@@ -171,6 +163,12 @@ Show off your expertise with these additional **ReactJS** stats:
 - **Art and Design:** Engage in digital art projects, blending creativity with technology.
 
 ---
+
+### 🎉 New Milestone!  
+I'm excited to share that I've achieved a new professional milestone! This accomplishment reflects my dedication and continuous growth in the tech field. Grateful for the journey and the opportunities ahead.  
+
+Check out more on my [LinkedIn post](https://www.linkedin.com/posts/shivarth-dronachary_im-happy-to-share-that-ive-obtained-a-new-activity-7276178818929737728-oXCk?utm_source=share&utm_medium=member_desktop).
+
 
 ## 🤝 Let’s Connect 🌐!  
 
