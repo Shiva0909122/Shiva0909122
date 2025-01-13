@@ -15,11 +15,10 @@ I’m **Shivarth Dronachary**, a **Full Stack Developer**, **Data Enthusiast**, 
 ### 🚀 **Professional Journey**
 
 - **Education:**  
-  - Bachelor of Technology in Computer Science and Engineering from [Your University Name], [Year of Graduation].
+  - Bachelor of Data Science Engineering from Nishitha Degree College, 2023.
 
 - **Experience:**  
-  - **Software Developer Intern** at [Company Name], where I contributed to developing and optimizing web applications, enhancing user experience, and implementing efficient backend solutions.  
-  - **Research Assistant** at [Institution Name], focusing on data analysis and machine learning projects, resulting in [specific achievement or publication].
+  - **Software Developer Intern** at Edureka, where I contributed to developing and optimizing web applications, enhancing user experience, and implementing efficient backend solutions.  
 
 - **Certifications:**  
   - [Certification Name] from [Issuing Organization].  
@@ -35,10 +34,6 @@ I’m **Shivarth Dronachary**, a **Full Stack Developer**, **Data Enthusiast**, 
 - **Databases:** MongoDB, PostgreSQL, MySQL  
 - **DevOps & Tools:** Git/GitHub, Docker, Postman, VS Code, Nginx, Heroku  
 - **Other Skills:** RESTful APIs, WebSocket integrations, Agile methodologies  
-
----
-
-Here's the updated **Technical Toolkit** section with **Data Analyst** tools and technologies included:
 
 ---
 
@@ -80,9 +75,6 @@ Here's the updated **Technical Toolkit** section with **Data Analyst** tools and
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)  
 
 ---
-
-
-
 ### 🔖 📂 Featured Projects  
 
 ### 📚 [Retro Library Codedex](https://github.com/Shiva0909122/Retro-Library-Codedex)  
@@ -144,15 +136,6 @@ Show off your expertise with these additional **ReactJS** stats:
 ![ReactJS NPM Downloads](https://img.shields.io/npm/dw/react?color=yellow&logo=npm&logoColor=white)  
 
 ---
-
-## 🌟 Fun Facts  
-
-- 🎮 **Gaming Guru**: Love exploring strategy and adventure games.  
-- 🚴‍♂️ **Outdoor Adventurer**: Cycling through nature is my therapy.  
-- 🛠️ **Tech Tinkerer**: Enjoy experimenting with IoT devices and hardware hacks.  
-
----
-
 
 ### ✨ **Interests and Hobbies**
 
