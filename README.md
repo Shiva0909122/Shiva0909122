@@ -123,5 +123,6 @@ Check out more on my [LinkedIn post](https://www.linkedin.com/posts/shivarth-dro
 - **Portfolio**: [shivarth09.online](https://shivarth09.online)  
 - **LinkedIn**: [linkedin.com/in/shivarth-dronachary](https://www.linkedin.com/in/shivarth-dronachary/)  
 - **Email**: [your-email@example.com](mailto:shivarth.drona@gmail.com)  
+https://github-readme-badge.peerlist.io/api/shivarth?style=for-the-badge
 
 ---
